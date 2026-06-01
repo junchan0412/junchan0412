@@ -4,7 +4,12 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=qidewei2004&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Crafting%20tools%20for%20a%20smoother%20network%20experience&descAlignY=58&descSize=16&animation=fadeIn" alt="banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&animation=fadeIn" alt="banner" />
+
+<!-- 艺术字标题:瞻君(内嵌字形 path,渐变填充,任何设备渲染一致) -->
+<img src="https://raw.githubusercontent.com/qidewei2004/qidewei2004/main/assets/title.svg" height="120" alt="瞻君" />
+
+<br/>
 
 <!-- 打字机副标题 -->
 <a href="https://github.com/qidewei2004">
@@ -21,7 +26,7 @@
 
 <div align="center">
 
-### 👋 你好，我是 qidewei &nbsp;·&nbsp; Hi, I'm qidewei
+### 👋 你好，我是瞻君 &nbsp;·&nbsp; Hi, I'm qidewei
 
 热衷于把繁琐的配置变成优雅、可复现、自动化的工具。<br/>
 <sub>I turn tedious configuration into elegant, reproducible, automated tools.</sub>
