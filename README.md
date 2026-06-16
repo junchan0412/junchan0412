@@ -43,8 +43,8 @@
 
 ## 🚀 开源项目 · Open Source
 
-一套用于 Surge 网络工具的工程化项目，三者协同。<br/>
-<sub>A toolchain for the Surge network utility — three projects that work together.</sub>
+一套围绕 Surge 的公开项目，三个仓库各司其职。<br/>
+<sub>Three public repos that cover config packaging, validation, and ruleset generation.</sub>
 
 </div>
 
@@ -52,6 +52,21 @@
 
 <table>
 <tr>
+<td width="33%" valign="top">
+
+### ⚙️ proxy-configs
+
+**代理客户端配置合集**<br/>
+<sub>Public config templates for Surge, Shadowrocket, Quantumult X and Mihomo.</sub>
+
+适合叠加到现有主配置的公开模板与增强模块。<br/>
+<sub>Composable public templates and enhancement modules.</sub>
+
+`Config` · `public templates` · `MIT`
+
+[**→ 查看 / View**](https://github.com/junchan0412/proxy-configs)
+
+</td>
 <td width="33%" valign="top">
 
 ### 🩺 surge-doctor
@@ -82,23 +97,10 @@
 [**→ 查看 / View**](https://github.com/junchan0412/surge-ruleset-forge)
 
 </td>
-<td width="33%" valign="top">
-
-### 🧩 surge-modules
-
-**功能增强模块合集**<br/>
-<sub>Enhancement modules.</sub>
-
-可开关的 `.sgmodule`：重定向、外链优化、DNS 映射。由 surge-doctor 自动校验。<br/>
-<sub>Toggleable modules, validated by surge-doctor in CI.</sub>
-
-`sgmodule` · `doctor-checked` · `MIT`
-
-[**→ 查看 / View**](https://github.com/junchan0412/surge-modules)
-
-</td>
 </tr>
 </table>
+
+<sub>另有私有备份仓库 <code>proxy-configs-private</code>，用于本地 Surge 配置同步。</sub>
 
 <br/>
 
