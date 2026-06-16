@@ -7,12 +7,12 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&animation=fadeIn" alt="banner" />
 
 <!-- 艺术字标题:瞻君(内嵌字形 path,渐变填充,任何设备渲染一致) -->
-<img src="https://raw.githubusercontent.com/qidewei2004/qidewei2004/main/assets/title.svg" height="120" alt="瞻君" />
+<img src="https://raw.githubusercontent.com/junchan0412/junchan0412/main/assets/title.svg" height="120" alt="瞻君" />
 
 <br/>
 
 <!-- 打字机副标题 -->
-<a href="https://github.com/qidewei2004">
+<a href="https://github.com/junchan0412">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=5B8DEF&center=true&vCenter=true&width=520&lines=%E4%B8%BA%E6%9B%B4%E9%A1%BA%E7%95%85%E7%9A%84%E7%BD%91%E7%BB%9C%E4%BD%93%E9%AA%8C%E9%80%A0%E5%B7%A5%E5%85%B7;Building+open-source+tooling+for+Surge;Python+%C2%B7+Automation+%C2%B7+Clean+Engineering" alt="typing" />
 </a>
 
@@ -26,7 +26,7 @@
 
 <div align="center">
 
-### 👋 你好，我是瞻君 &nbsp;·&nbsp; Hi, I'm qidewei
+### 👋 你好，我是瞻君 &nbsp;·&nbsp; Hi, I'm junchan0412
 
 热衷于把繁琐的配置变成优雅、可复现、自动化的工具。<br/>
 <sub>I turn tedious configuration into elegant, reproducible, automated tools.</sub>
@@ -64,7 +64,7 @@
 
 `Python` · `48 tests` · `MIT`
 
-[**→ 查看 / View**](https://github.com/qidewei2004/surge-doctor)
+[**→ 查看 / View**](https://github.com/junchan0412/surge-doctor)
 
 </td>
 <td width="33%" valign="top">
@@ -79,7 +79,7 @@
 
 `Python` · `CI daily` · `MIT`
 
-[**→ 查看 / View**](https://github.com/qidewei2004/surge-ruleset-forge)
+[**→ 查看 / View**](https://github.com/junchan0412/surge-ruleset-forge)
 
 </td>
 <td width="33%" valign="top">
@@ -94,7 +94,7 @@
 
 `sgmodule` · `doctor-checked` · `MIT`
 
-[**→ 查看 / View**](https://github.com/qidewei2004/surge-modules)
+[**→ 查看 / View**](https://github.com/junchan0412/surge-modules)
 
 </td>
 </tr>
@@ -122,11 +122,10 @@
 <!--                            页脚 / Footer                          -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/qidewei2004)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/junchan0412)
 
 <sub>感谢到访 · Thanks for visiting</sub>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer" />
 
 </div>
-
